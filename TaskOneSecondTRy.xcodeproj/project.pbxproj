@@ -14,6 +14,7 @@
 		C755542F201BA3A0000E73E8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C755542D201BA3A0000E73E8 /* LaunchScreen.storyboard */; };
 		C755543A201BA3A0000E73E8 /* TaskOneSecondTRyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7555439201BA3A0000E73E8 /* TaskOneSecondTRyTests.swift */; };
 		C7555445201BA3A1000E73E8 /* TaskOneSecondTRyUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7555444201BA3A1000E73E8 /* TaskOneSecondTRyUITests.swift */; };
+		C7555453201BA7C3000E73E8 /* GallaryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7555452201BA7C3000E73E8 /* GallaryViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		C7555440201BA3A1000E73E8 /* TaskOneSecondTRyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TaskOneSecondTRyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C7555444201BA3A1000E73E8 /* TaskOneSecondTRyUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskOneSecondTRyUITests.swift; sourceTree = "<group>"; };
 		C7555446201BA3A1000E73E8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C7555452201BA7C3000E73E8 /* GallaryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GallaryViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				C7555424201BA3A0000E73E8 /* AppDelegate.swift */,
 				C7555426201BA3A0000E73E8 /* ViewController.swift */,
+				C7555452201BA7C3000E73E8 /* GallaryViewController.swift */,
 				C7555428201BA3A0000E73E8 /* Main.storyboard */,
 				C755542B201BA3A0000E73E8 /* Assets.xcassets */,
 				C755542D201BA3A0000E73E8 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 			files = (
 				C7555427201BA3A0000E73E8 /* ViewController.swift in Sources */,
 				C7555425201BA3A0000E73E8 /* AppDelegate.swift in Sources */,
+				C7555453201BA7C3000E73E8 /* GallaryViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
